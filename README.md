@@ -1,5 +1,5 @@
-    # #sobre mim
--  👋 ola meu nome e @leonardoharmatiuk
+-   # sobre mim
+-  👋 Ola meu nome e @leonardoharmatiuk
 -   👍 meu email de contato é harmatiuk.habreu@escola.pr.gov.br 
 -  👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagens de javaScript e Scratch
